@@ -8,7 +8,7 @@ cin>>a;
 cout<<"Enter the value of B:"<<endl;
 cin>>b;
 
-cout<<"Enter the value of C:"<<endl;
+cout<<"Enter the value of D:"<<endl;
 cin>>c;
 
 if(a>b && a>c){
